@@ -3,13 +3,16 @@
 void DNA(){
    char Thymine =
         "O"  
-   "CH2/| |\NH"
-       "| |\\O"
+        "||"
+   "CH2/|  |\NH"
+       "|  |\\O"
        "\NH/"   ;
     char Cytosine =
        "NH2"
+        "|"
        "/ \N"
-       "| |\\O"
+       "||  |"
+       "|| \\O"
        "\NH/"   ;
     char Adenine =
        "//N\/NH2\\N"
@@ -22,5 +25,5 @@ void DNA(){
        "//N\/NH2\\N"
        "/  ||     |"
        "\  ||     |\NH2"
-       "\NH/\ N  /" ;
+       "\NH/\ N  //" ;
 }

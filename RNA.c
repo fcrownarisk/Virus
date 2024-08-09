@@ -4,8 +4,8 @@ void RNA(){
     char Uracil =
         "O"  
         "||"
-   "CH2/|  |\NH"
-       "|  |\\O"
+       "/|  \NH"
+       "||  |\\O"
        "\NH/"   ;
     char Cytosine =
        "NH2"

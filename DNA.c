@@ -4,8 +4,8 @@ void DNA(){
    char Thymine =
         "O"  
         "||"
-   "CH2/|  |\NH"
-       "|  |\\O"
+   "CH2\/  |\NH"
+      "|   |\\O"
        "\NH/"   ;
     char Cytosine =
        "NH2"

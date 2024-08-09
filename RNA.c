@@ -3,14 +3,16 @@
 void RNA(){
     char Uracil =
         "O"  
-   "CH2/| |\NH"
-       "| |\\O"
-       "\NH/"  
-     ;
+        "||"
+   "CH2/|  |\NH"
+       "|  |\\O"
+       "\NH/"   ;
     char Cytosine =
        "NH2"
-       "/ \N"
-       "| |\\O"
+        "|"
+       "/ \\N"
+       "||  |"
+       "|| \\O"
        "\NH/"   ;
     char Adenine =
        "//N\/NH2\\N"

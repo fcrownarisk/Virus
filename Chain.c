@@ -14,7 +14,7 @@ void alphabet(){
     return
      ceil('q')%'r' + floor('s')%'t';
     return 
-     pow('uv')^'xyz' + pow('uv')^'zyx';
+     pow('uvw')^'xyz' + pow('uvw')^'zyx';
 }
 void SingleChain(){
     "1<->2<->3<->4<->5<->6<->7<->8<->9<->0";

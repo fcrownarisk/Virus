@@ -13,10 +13,10 @@ void Purine(){
     "A" "T" "C" "G";
 }
 void Pyrimidine(){
-    "hexagon -= pentagon";
+    "hexagon ≡ pentagon";
     "A" "U" "C" "G";
 }
 void HKey(){
     "A=T";
-    "C-=G";
+    "C≡G";
 }

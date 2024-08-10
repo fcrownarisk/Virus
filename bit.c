@@ -32,22 +32,22 @@ const h = "00010010";
 const i = "00010011";
 const j = "00010100";
 const k = "00010101";
-const l = "00010111";
+const l = "00010110";
     
-const m = "00011000";
-const n = "00011001";
-const o = "00011010";
-const p = "00011011";
-const q = "00011111";
-const r = "00100000";
+const m = "00010111";
+const n = "00011000";
+const o = "00011001";
+const p = "00011010";
+const q = "00011011";
+const r = "00011100";
     
-const s = "00100001";
-const t = "00100010";
-const u = "00100011";
-const v = "00100100";
-const w = "00100101";
+const s = "00011101";
+const t = "00011110";
+const u = "00011111";
+const v = "00100000";
+const w = "00100001";
     
-const x = "00100111";
-const y = "00101000";
-const z = "00101001";
+const x = "00100010";
+const y = "00100011";
+const z = "00100100";
 }

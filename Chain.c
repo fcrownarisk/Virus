@@ -4,15 +4,15 @@
 #define False 0
 void alphabet(){
     return 
-     sin('a')+'b' + cos('c')+'d';
+     sin('a'+'b') + cos('c'+'d');
     return 
-     asin('e')-'f' + acos('g')-'h';
+     asin('e'-'f') + acos('g'-'h');
     return 
-     tan('i')*'j' + atan('k')*('l');
+     tan('i'*'j') + atan('k'*'l');
     return
-     exp('m')/'n' + log('o')/'p';
+     exp('m'/'n') + log('o'/'p');
     return
-     ceil('q')%'r' + floor('s')%'t';
+     ceil('q'%'r') + floor('s'%'t');
     return 
      pow('uvw')^'xyz' + pow('uvw')^'zyx';
 }

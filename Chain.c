@@ -1,5 +1,6 @@
 #include "Virus.vb"
 #include "XYZ.ts"
+#include "math.h"
 #define True 1
 #define False 0
 void alphabet(){

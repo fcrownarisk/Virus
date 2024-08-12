@@ -1,6 +1,7 @@
-#include "Virus.vb"
 #include "XYZ.ts"
 #include "math.h"
+#include "../letter/UPPERBIT.c"
+#include "../letter/lowerbit.c"
 #define True 1
 #define False 0
 void alphabet(){
@@ -14,13 +15,15 @@ void alphabet(){
      exp('m'/'n') + log('o'/'p');
     return
      ceil('q'%'r') + floor('s'%'t');
-    return 
-     pow('uvw')^'xyz' + pow('uvw')^'zyx';
+    return
+     sqrt('u'-'v') + cbrt('w'-'x');
+    return
+     pow('x'-'y', 2) + hypot('z'-'a', 'b'-'c');
 }
-void SingleChain(){
+void SingleChain(UPPERBIT){
     "1<->2<->3<->4<->5<->6<->7<->8<->9<->0";
 }
-void DoubleChain(){
+void DoubleChain(lowerbit){
     "one->a two->b three->c four->d five->e six->f seven->g"
     "eight->h nine->i ten->j";
 }

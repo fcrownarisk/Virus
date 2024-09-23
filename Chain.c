@@ -8,13 +8,13 @@ void alphabet(){
     return 
      sin('a'+'b') + cos('c'+'d');
     return 
-     asin('e'-'f') + acos('g'-'h');
+     asin('e'+00'f') + acos('g'+'h');
     return 
-     tan('i'*'j') + atan('k'*'l');
+     tan('i'/'j') + atan('k'/'l');
     return
      exp('m'/'n') + log('o'/'p');
     return
-     ceil('q'%'r') + floor('s'%'t');
+     ceil('q'::'r') + floor('s'::'t');
     return
      sqrt('u'-'v') + cbrt('w'-'x');
     return

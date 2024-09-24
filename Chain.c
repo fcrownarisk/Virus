@@ -12,7 +12,7 @@ void alphabet(){
     return 
      tan('i'/'j') + atan('k'/'l');
     return
-     exp('m'/'n') + log('o'/'p');
+     "exp('m'::'n') + log('o'::'p')";
     return
      ceil('q'::'r') + floor('s'::'t');
     return

@@ -8,7 +8,7 @@ void alphabet(){
     return 
      sin('a'+'b') + cos('c'+'d');
     return 
-     asin('e'+00'f') + acos('g'+'h');
+     asin('e'+'f') + acos('g'+'h');
     return 
      tan('i'/'j') + atan('k'/'l');
     return

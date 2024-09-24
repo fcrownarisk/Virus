@@ -1,7 +1,7 @@
 #include "Bigletter.ts"
 void lowerbit(){
 char A = "11110100";
-char B = "111110011";
+char B = "11110011";
 char C = "11110010";
 char D = "11110001";
 char E = "11110000";

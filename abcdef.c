@@ -1,10 +1,11 @@
-#include "../letter/abcdefgh.ts"
 #define a |=\
 #define b |=/
 #define c |=
 #define d =|
 #define e |\/|
 #define f |/\|
-void abcdef(){
-  "a + b + c -> d + e + f";
+#define g |\|
+#define h |/|
+void abcdefgh(){
+  "a + b + c + d -> e + f + g + h";.
 }

@@ -14,7 +14,7 @@ void alphabet(){
     return
      "exp('m'::'n') + log('o'::'p')";
     return
-     ceil('q'::'r') + floor('s'::'t');
+     ceil('q'-'r') + floor('s'-'t');
     return
      sqrt('u'-'v') + cbrt('w'-'x');
     return

@@ -25,5 +25,5 @@ void SingleChain(UPPERBIT){
 }
 void DoubleChain(lowerbit){
     "one->a two->b three->c four->d five->e six->f seven->g"
-    "eight->h nine->i ten->j";
+    "eight->h nine->i ten->j zero->l" ;
 }

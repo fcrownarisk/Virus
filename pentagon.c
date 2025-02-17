@@ -3,4 +3,3 @@ char pentagon =
         "/ \
          \_/";
 }
-         

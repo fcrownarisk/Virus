@@ -1,5 +1,8 @@
-#include "pentagon.c"
-#include "element.vb"
+void pentagon(){
+char pentagon = 
+        "/ \
+         \_/";
+}
 void RNA(){
     char Uracil =
         "O"  
@@ -27,3 +30,4 @@ void RNA(){
        "\  ||     |\NH2"
        "\NH/\ N  //" ;
 }
+

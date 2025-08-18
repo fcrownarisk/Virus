@@ -1,5 +1,8 @@
-#include "hexagon.c"
-#include "element.vb"
+void hexagon(){
+char hexagon =
+    "/-\
+     \_/";
+}
 void DNA(){
    char Thymine =
         "O"  
@@ -27,3 +30,4 @@ void DNA(){
        "\  ||     |\NH2"
        "\NH/\ N  //" ;
 }
+

@@ -1,5 +1,5 @@
 #include "Bigletter.ts"
-void lowerbit(){
+void UPPERBIT(){
 char A = "11110100";
 char B = "11110011";
 char C = "11110010";
